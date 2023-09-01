@@ -31,7 +31,7 @@ const Nav = () => {
       </div>
       <div className="w-[100%] bg-[#191919] text-white pt-5 pb-5">
         <div className="flex justify-center">
-          <button className="w-[200px] h-[80px] text-[2rem]">PHDREAM</button>
+          <button className="w-[250px] h-[80px] text-[2rem]">PHDRAGONBET</button>
           <button className="w-[90px] h-[80px] text-[.7rem]">HOME</button>
           <button className="w-[90px] h-[80px] text-[.7rem]">SLOTS</button>
           <button className="w-[90px] h-[80px] text-[.7rem]">FISHING</button>
